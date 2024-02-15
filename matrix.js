@@ -224,8 +224,4 @@ const multiplyMatrices = (matrix1, matrix2) => {
         result.push(row);
     }
     return result;
-
-    
-
-
 };
